@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "dependencies": {
     "@mrblenny/react-flow-chart": "0.0.7",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-scripts": "2.0.3",
